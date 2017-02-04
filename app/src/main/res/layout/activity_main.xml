@@ -20,6 +20,7 @@
         android:layout_marginRight="10dp"
         android:layout_marginTop="10dp"
         android:divider="#e6e6e9"
-        android:dividerHeight="0px" />
+        android:dividerHeight="0px"
+        android:listSelector="#00000000" />
 
 </RelativeLayout>
